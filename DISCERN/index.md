@@ -1,8 +1,8 @@
 # CICI: RSSD: DISCERN: Datasets to Illuminate Suspicious Computations on Engineering Research Networks
 
-Project members: Jelena Mirkovic, Brian Kocoloski, Spencer Stingley, Sam Liang, Muskan Fatima
+**Project members:** Jelena Mirkovic, Brian Kocoloski, Spencer Stingley, Sam Liang, Muskan Fatima
 
-This research is supported by the National Science Foundation's CICI program, under the award number 2319864.
+**Funding acknowledgment:** This research is supported by the National Science Foundation's CICI program, under the award number 2319864.
 
 Reconfigurable compute and network testbeds form the basis of much scientific cyberinfrastructure (CI). In such CI, users are given unrestricted access to experimental nodes, which can reach into the Internet and host publicly reachable services. A unifying theme across this type of CI is a desire to remain open and flexible to meet the ever evolving needs of the science and engineering communities. Yet, this openness and flexibility, coupled with a lack of system administration knowledge among CI users, opens the CI to attacks and misuse by external actors. Compromised nodes can be used to attack other public targets, they can encrypt or exfiltrate users' scientific data, or they can perform illicit computational activities such as cryptocurrency mining.
 
