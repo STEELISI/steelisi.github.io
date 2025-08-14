@@ -1,6 +1,6 @@
 # CICI: RSSD: DISCERN: Datasets to Illuminate Suspicious Computations on Engineering Research Networks
 
-**Project members:** Jelena Mirkovic, Brian Kocoloski, Spencer Stingley, Sam Liang, Muskan Fatima
+**Project members:** Jelena Mirkovic, Brian Kocoloski, Spencer Stingley, Quishen Sam Liang, Muskan Fatima
 
 **Funding acknowledgment:** This research is supported by the National Science Foundation's CICI program, under the award number 2319864.
 
@@ -15,4 +15,11 @@ Our work creates new datasets capturing the way users leverage cyberinfrastructu
 ## Broader Impacts
 
 Our proposed effort can improve cybersecurity posture of scientific cyberinfrastructure (CI) by providing realistic and diverse datasets to cybersecurity researchers, which can then work to develop appropriate defenses for CI. An improved cybersecurity posture of scientific CI in turn protects our nation's progress in science and technology by protecting privacy and intellectual property of the researchers interacting with the CI.
-Our datasets are also useful for cybersecurity education, as they are fully labeled, rich and diverse. Our instrumentation efforts help track data provenance, which can improve experiment reproducibility on scientific CIs. 
+Our datasets are also useful for cybersecurity education, as they are fully labeled, rich and diverse. Our instrumentation efforts help track data provenance, which can improve experiment reproducibility on scientific CIs.
+
+## Outcomes
+
+* Interviews with CI leaders
+* Datasets with synthetic legitimate and attack traffic
+* Code for data collection
+* Technical report
