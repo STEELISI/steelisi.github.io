@@ -19,7 +19,7 @@ Our datasets are also useful for cybersecurity education, as they are fully labe
 
 ## Outcomes
 
-* [Interviews with CI leaders]()
+* [Interviews with CI leaders](https://docs.google.com/document/d/1JsOU073bmc24w_9QMPQY-oMHlg-nKWleRrfS_wClmAk/edit?usp=sharing)
 * [Datasets with synthetic legitimate and attack traffic](https://github.com/STEELISI/discern_data/tree/main/synthetic)
 * [Code for data collection](https://gitlab.com/mergetb/tech/instrumentation)
 * Technical report
