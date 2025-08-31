@@ -15,10 +15,10 @@ My name is Jelena Mirkovic and I am Research Associate Professor at University o
 - **When, where and how is the study being run?**
   - Data collection will occur on the [SPHERE research infrastructure](https://sphere-testbed.net) from Sep 15 to Oct 15, 2025. Data will be collected by instrumenting SPHERE's `bullseye` and `ubuntu` OS images to collect and trasmit data to a database on SPHERE.
 
-**What is being collected?**
+- **What is being collected?**
    - CPU usage, memory usage, live processes, file changes and network traffic (header-only) on experimental nodes.
 
-**How is user privacy protected?**
+- **How is user privacy protected?**
   - We anonymize all data that could reveal a user's identity. Here is the list of all data collected and how it is processed:
     - Testbed node name (chosen by user, anonymized by us)
     - Allocation name (chosen by user, anonymized by us)
@@ -44,10 +44,10 @@ destroy the mapping. Another experiment by the same user will generate a new
 mapping.
 
 - **How is intellectual property protected?**
-      - We do not collect any data about user's command line activities, nor any file or network packet contents.
+  - We do not collect any data about user's command line activities, nor any file or network packet contents.
       
 - **Where can I find study's results?**
-	- All results will be released on our [DISCERN project's Web page](../README.md)
+ - All results will be released on our [DISCERN project's Web page](../README.md)
 
 - **Who do I contact with more questions?**
   - Please email <a href="mailto:mirkovic@isi.edu">Jelena Mirkovic at mirkovic@isi.edu</a>.
