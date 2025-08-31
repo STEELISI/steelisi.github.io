@@ -47,7 +47,7 @@ mapping.
   - We do not collect any data about user's command line activities, nor any file or network packet contents.
       
 - **Where can I find study's results?**
- - All results will be released on our [DISCERN project's Web page](../README.md)
+  - All results will be released on our [DISCERN project's Web page](../README.md)
 
 - **Who do I contact with more questions?**
   - Please email <a href="mailto:mirkovic@isi.edu">Jelena Mirkovic at mirkovic@isi.edu</a>.
