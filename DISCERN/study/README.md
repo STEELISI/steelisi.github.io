@@ -1,4 +1,4 @@
-My name is Jelena Mirkovic and I am Research Associate Professor at University of Southern California and a PI of the [DISCERN project](../README.md). For this project, I and my research team are running a user study on [SPHERE research infrastructure](https://sphere-testbed.net) to collect data on legitimate use of research infrastructures. The study has been reviewed and approved as exempt by the USC's Institutional Review Board (IRB). Here is more information about the study.
+My name is Jelena Mirkovic and I am Research Associate Professor at University of Southern California and a PI of the [DISCERN project](../). For this project, I and my research team are running a user study on [SPHERE research infrastructure](https://sphere-testbed.net) to collect data on legitimate use of research infrastructures. The study has been reviewed and approved as exempt by the USC's Institutional Review Board (IRB). Here is more information about the study.
 
 - **Who is running the study?**
 
@@ -47,7 +47,7 @@ mapping.
   - We do not collect any data about user's command line activities, nor any file or network packet contents.
       
 - **Where can I find study's results?**
-  - All results will be released on our [DISCERN project's Web page](../README.md)
+  - All results will be released on our [DISCERN project's Web page](../)
 
 - **Who do I contact with more questions?**
   - Please email <a href="mailto:mirkovic@isi.edu">Jelena Mirkovic at mirkovic@isi.edu</a>.
