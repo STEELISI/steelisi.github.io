@@ -20,22 +20,15 @@ My name is Jelena Mirkovic and I am Research Associate Professor at University o
 
 - **How is user privacy protected?**
   - We anonymize all data that could reveal a user's identity. Here is the list of all data collected and how it is processed:
-    - Testbed node name (chosen by user, anonymized by us)
+    - Testbed node name 
     - Allocation name (chosen by user, anonymized by us)
     - Project name (chosen by user, anonymized by us)
     - Experiment name (chosen by user, anonymized by us)
     - Timestamp in Epoch time
     - CPU load (percentage 0-100)
-    - File name and operation (create, open, read, delete, write, permission change) - only for system files
-    - File owner (anonymized)
-    - File group (anonymized)
-    - Network packets: timestamp
-    - Network packets: length
-    - Network packets: device (e.g. eth0, eth1)
-    - Network packets: link protocol, transport protocol, network protocol, source and destination port number
-    - Network packets: source and destination IP address 
-    - System processes: process id, parent process id, memory usage, thread usage, state, user id (numeric), group id (numeric)
-    - System processes: process name 
+    - File name and operation (create, delete, write), anonymized file owner and group, file hash - only for system files in the following directories: /tmp, /boot, /root, /bin, /usr, /etc
+    - Network packets: timestamp, length, device (e.g. eth0, eth1), link protocol, transport protocol, network protocol, source and destination port number, source and destination IP address (both addresses have last octet anonymized)
+    - System processes: process id, parent process id, memory usage, thread usage, state, user id (numeric), group id (numeric), process name 
 
     We anonymize necessary pieces of information by replacing strings with random other strings in a consistent manner for a given user. This approach to anonymization
 requires us to keep a mapping of the original and the replacement string. After the user
