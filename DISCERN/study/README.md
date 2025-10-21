@@ -10,7 +10,7 @@ My name is Jelena Mirkovic and I am Research Associate Professor at University o
   - We need data about how legitimate users use research infrastructure, so we could build models of such use. Legiitmate use models help research infrastructures build misuse detection algorithms and catch users that run cryptomining or launch attacks using research hardware. Our study is collecting data about legitimate user's use of research infrastructure.
 
 - **Is the study opt-in or opt-out?**
-  - This is an opt-out study. All experiments ran during the study's duration (see the next question for details) will be included in data collection. If you want to opt-out, please use image names `bullseye-optout` and `2204-optout` for your experiments during the study period.
+  - This is an opt-out study. All experiments ran during the study's duration (see the next question for details) will be included in data collection. If you want to opt-out, please use image names `bullseye-optout` and `2204-optout` (`ubuntu-optout` also works for 2204 image) for your experiments during the study period.
 
 - **When, where and how is the study being run?**
   - Data collection will occur on the [SPHERE research infrastructure](https://sphere-testbed.net) from Oct 20 to Nov 20, 2025. Data will be collected by instrumenting SPHERE's `bullseye` and `2204` OS images to collect and trasmit data to a database on SPHERE.
